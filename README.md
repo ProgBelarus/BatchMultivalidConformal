@@ -1,6 +1,6 @@
 # Batch Multivalid Conformal Prediction
 
-This repository includes code for the paper *Batch Multivalid Conformal Prediction* by Christopher Jung, Georgy Noarov, Ramya Ramalingam, and Aaron Roth.
+This repository contains code for the paper *Batch Multivalid Conformal Prediction* by Christopher Jung, Georgy Noarov, Ramya Ramalingam, and Aaron Roth.
 
 The `src/` folder contains Python implementations for our multivalid conformal predictors, along with other utilities such as plotting tools and conformal scorers. 
 In particular:
